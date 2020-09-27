@@ -1,0 +1,152 @@
+/* @import url("https://fonts.googleapis.com/css?family=Roboto:400,500|Rubik:500,700"); */
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Rakkas&display=swap'); */
+
+body {
+    margin: 0;
+    /* font-family: "Roboto", sans-serif; */
+}
+
+
+/* 
+.container {
+    margin-top: 100px;
+    width: 100%;
+    height: 500px;
+}
+
+.section-img {
+    width: 40%;
+    height: 100%;
+    float: left;
+    margin-left: 10%;
+}
+
+.section-img img {
+    height: 80%;
+}
+
+.section-info {
+    width: 40%;
+    height: 100%;
+    float: left;
+}
+
+.section-info h2 {
+    font-size: 36px;
+    font-weight: 700;
+    font-family: Rubik, sans-serif;
+    line-height: 50px;
+}
+
+.section-info p {
+    color: rgb(119, 119, 119);
+}
+
+.section-info button {
+    border: none;
+    padding: 15px 25px;
+    background-image: linear-gradient(to right, rgb(68, 88, 220) 0%, rgb(133, 79, 238) 100%), radial-gradient(circle at left top, rgb(68, 88, 220), rgb(133, 79, 238));
+} */
+
+
+/* .test { */
+
+
+/* width: 100px;
+    height: 100px; */
+
+
+/* background-color: blueviolet; */
+
+
+/* margin-left: 50px;
+    margin-top: 20px;
+    border: gray 1px solid; */
+
+
+/* margin-top: 20;
+    margin-bottom: 20;
+    margin-left: 50;
+    /* margin-right: 1; */
+
+
+/* margin: 20px 50px; */
+
+
+/* padding-top: 20px;
+    padding-left: 40px; */
+
+
+/* padding-right: ; */
+
+
+/* padding-bottom: ; */
+
+
+/* padding: 20px 20px 20px 20px; */
+
+
+/* font-size: 40px; */
+
+
+/* font-weight: ; */
+
+
+/* font-family: 'Rakkas', cursive; */
+
+
+/* } */
+
+
+/* .container {
+    margin-top: 200px;
+    width: 100%;
+    height: 300px;
+    background-color: blueviolet;
+}
+
+.items {
+    width: 70%;
+    height: 100%;
+    background-color: brown;
+    margin: auto;
+} */
+
+
+/* .item {
+    width: 15%;
+    height: 50%;
+    background-color: aqua;
+    border: 1px solid gray;
+    float: left;
+    padding: 20px;
+} */
+
+
+/* .item img {
+    margin-top: 30%;
+    margin-left: 15%;
+} */
+
+.test {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    float: right;
+}
+
+.box {
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    /* float: left; */
+}
+
+.boxtwo {
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    /* float: left; */
+}
