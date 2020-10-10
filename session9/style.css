@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+/* .container {
+    width: 100%;
+    height: 500px;
+    background-color: red;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: flex-start;
+}
+
+.container div {
+    width: 50%;
+    height: 30%;
+    background-color: black;
+    color: white;
+} */
+
+
+/* .parent {
+    margin-top: 50px;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.child {
+    width: 30%;
+    height: 40%;
+}
+
+.icon {
+    width: 30%;
+    height: 100%;
+    float: left;
+    padding: 20px 50px;
+}
+
+.info {
+    width: 70%;
+    height: 100%;
+    float: left;
+    padding: 20px 0;
+} */
+
+.box {
+    position: relative;
+    width: 30px;
+    height: 40px;
+    /* background: green; */
+    border: solid black 1px;
+    margin: auto;
+    border-radius: 40%;
+    -webkit-border-radius: ;
+    -moz-border-radius: ;
+    -ms-border-radius: ;
+    -o-border-radius: ;
+}
+
+.pointer {
+    position: absolute;
+    left: 40%;
+    top: 20%;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    background: red;
+    animation-name: p;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes p {
+    0% {
+        top: 10%;
+    }
+    25% {
+        top: 20%;
+    }
+    50% {
+        top: 30%;
+    }
+    100% {
+        top: 40%;
+    }
+}
